@@ -6,3 +6,15 @@ h1 {
 p {
     color: darkgoldenrod;
 }
+
+div {
+    background-color: floralwhite;
+    width: 500px;
+    height: 700px;
+    margin: 30px;
+    padding: 10px;
+}
+
+body {
+    margin: 0%;
+}
